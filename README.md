@@ -8,3 +8,6 @@ https://youtube.com/playlist?list=PL1jpNbrsekh5ij4def0cnNosUcL0MDdM_&si=aioYqANN
 강의번호-fin_ 으로 시작하는 것은 해당 강의 완료 시 자료입니다.
 
 영상과 레퍼런스 번호가 달라 불편하신 분들을 위해 자료를 올려드립니다.
+
+- 부품 별도로 구매하시는 분들은 Part_for_Devicemart 파일 참고 바랍니다.
+- 
