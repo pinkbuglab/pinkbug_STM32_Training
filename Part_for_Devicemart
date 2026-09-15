@@ -1,0 +1,19 @@
+# 개별 부품을 위한 링크
+JLCPCB에서 PCB만 주문 후 직접 조립 하는 분들을 위해, 강의 설계 시 디바이스마트에서도 구할 수 있는 부품으로 계획했습니다.
+해당 되시는 분들은 아래 링크 참고하시면 됩니다.
+
+- FT232RL : https://www.devicemart.co.kr/goods/view?no=1057895
+- LED/1608/RED : https://www.devicemart.co.kr/goods/view?no=14047555
+- LED/1608/BLUE : https://www.devicemart.co.kr/goods/view?no=14047558
+- LED/1608/YELLOW : https://www.devicemart.co.kr/goods/view?no=14047556
+- LED/1608/ORANGE : https://www.devicemart.co.kr/goods/view?no=14047560
+- Tact Switch(ITS-1105-5mm) : https://www.devicemart.co.kr/goods/view?no=34555
+- Potentiometer(RV09H-20SQ 10KR) : https://www.devicemart.co.kr/goods/view?no=5324
+- STM32F103C8T6 : https://www.devicemart.co.kr/goods/view?no=1059063
+- Buzzer(BPE-1404P-40) : https://www.devicemart.co.kr/goods/view?no=32839
+- LDO(LM1117S-3.3) : https://www.devicemart.co.kr/goods/view?no=1057802
+- NPN TR(MMBT2222A) : https://www.devicemart.co.kr/goods/view?no=1378333
+- Mini USB B Type 5Pin Connector : https://www.devicemart.co.kr/goods/view?no=1061593
+- Crystal 8Mhz : https://www.devicemart.co.kr/goods/view?no=5647
+
+이 외 수동소자(저항, 커패시터)와 헤더핀은 아무거나 구매하셔도 됩니다.
